@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/AugustoCedro">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AugustoCedro&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AugustoCedro&show_icons=true&theme=dark"/>
    <img height="150em" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCedro&theme=dark&layout=compact&&langs_count=8"/>
 </div>
 <div style="display : inline_block"><br>
