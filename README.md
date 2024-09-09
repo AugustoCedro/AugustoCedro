@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Augusto Cedro
   - 🔭 Estou procurando estágio na área de desenvolvimento de software
-  - 🌱 Estudando Python e SQL
+  - 🌱 Estudando SQL, Java e GIT
 
 <div>
   <a href="https://github.com/AugustoCedro">
